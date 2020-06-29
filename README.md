@@ -5,6 +5,7 @@
 - elasticMQ
 - minio
 - redis
+- dynamodb local
 
 ## 構築方法
 
